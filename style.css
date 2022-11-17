@@ -1,0 +1,14 @@
+.d-block {
+    width: 100%;
+    height: 800px;
+    object-fit: cover;
+}
+
+.bg-op {
+    background-color: #00000092;
+}
+
+.empty {
+    width: 100%;
+    height: 90px;
+}
